@@ -1,4 +1,4 @@
-// TodoList.js hehe
+// TodoList.js hehe :p
 import React from "react";
 
 function TodoList({ todos, deleteTodo }) {
