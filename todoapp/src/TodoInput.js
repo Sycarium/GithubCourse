@@ -1,4 +1,4 @@
-// TodoInput.js hehe :d
+// TodoInput.js hehe 
 import React, { useState } from "react";
 
 function TodoInput({ addTodo }) {
